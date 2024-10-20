@@ -1,3 +1,9 @@
 img{
   border-radius: 10px;
 }
+
+@media (max-width: 768px) {
+  .d-flex {
+    flex-direction: column; /* Cambia a disposición en columna en pantallas pequeñas */
+  }
+}

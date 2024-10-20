@@ -1,6 +1,17 @@
 img{
   border-radius: 10px;
-  height: auto;
+}
+
+@media (max-width: 768px) {
+  .d-flex {
+    flex-direction: column; /* Cambia a disposición en columna en pantallas pequeñas */
+  }
+}
+
+@media (max-width: 1200px) {
+  .d-flex {
+    flex-direction: row; /* Cambia a disposición en columna en pantallas pequeñas */
+  }
 }
 
 

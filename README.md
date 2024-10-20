@@ -2,7 +2,7 @@
   * Autor de propuesta: Ingeniero Electronico David Fernando Parra Fortich 
   * Colaborador de propuesta: Ingeniero de Sistemas David Herrera Bermudez
 
-## Propuesta de proyecti BioSostenible - Autosostenible.
+## Propuesta de proyecto BioSostenible - Autosostenible.
 
 ### Integrantes:
   * Ingeniero Electronico David Fernando Parra Fortich 

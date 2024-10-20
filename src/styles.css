@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  /* background-image: url('assets/imagenes/cerdos.jpg'); */
+  background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.9)),
+              url('assets/imagenes/cerdos.jpg') center/cover no-repeat;
+
+  background-size: cover; /* Hace que la imagen cubra toda la pantalla */
+  background-position: center; /* Centra la imagen en la pantalla */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+  background-attachment: fixed; /* Mantiene la imagen fija al hacer scroll */
+
+}

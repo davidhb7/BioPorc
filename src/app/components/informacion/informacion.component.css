@@ -7,3 +7,8 @@ img{
     flex-direction: column; /* Cambia a disposición en columna en pantallas pequeñas */
   }
 }
+@media (max-width:  1500px) {
+  .d-flex {
+    flex-direction: row; /* Cambia a disposición en columna en pantallas pequeñas */
+  }
+}

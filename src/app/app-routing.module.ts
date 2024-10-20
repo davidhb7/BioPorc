@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { GraficosComponent } from './components/graficos/graficos.component';
 import { InformacionComponent } from './components/informacion/informacion.component';
 import { ProblemaComponent } from './components/problema/problema.component';
 import { CierreComponent } from './components/cierre/cierre.component';
